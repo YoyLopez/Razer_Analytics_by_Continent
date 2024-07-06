@@ -1,3 +1,4 @@
+This repository contains a project that simulates the sales of the Razer brand globally, using a Microsoft Access database. The simulation covers different continents and their respective countries, providing a detailed view of sales performance in each region.
 
 :octocat:Dashboard
 ![Captura de pantalla 2024-07-05 205947](https://github.com/YoyLopez/Razer_Analytics_by_Continent/assets/172577623/571988c4-d0a7-4988-a237-d7d7aa9912e4)
