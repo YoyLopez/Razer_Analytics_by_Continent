@@ -6,4 +6,4 @@
 
 
 
-![Power_BI](https://img.shields.io/badge/-Power_BI-000000?style=flat&logo=powerbi)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=powerbi)
