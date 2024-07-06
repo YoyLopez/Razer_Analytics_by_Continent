@@ -6,4 +6,4 @@
 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png"></code>
+![Power_BI](https://img.shields.io/badge/-Power_BI-000000?style=flat&logo=powerbi)
