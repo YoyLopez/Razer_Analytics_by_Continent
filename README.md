@@ -5,4 +5,5 @@ This repository contains a project that simulates the sales of the Razer brand g
 
 
 ![Power BI](https://img.shields.io/badge/-PowerBI-F7DF1E?style=flat&logo=PowerBI)
+
 https://app.powerbi.com/view?r=eyJrIjoiZDUzNmY0ZjMtMWUxMi00Zjc3LThjYzItOWViOTJlMjJhNzk3IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9
